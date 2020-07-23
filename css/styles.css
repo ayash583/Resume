@@ -1,0 +1,136 @@
+a{
+  color: #11999E;
+}
+body{
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  line-height: 4;
+  margin-top: 30px;
+}
+.middle-container{
+  background-color: white;
+}
+.top-container{
+  background-color: #E4F9F9;
+  position: relative;
+  padding-top: 100px;
+}
+h1{
+  font-size: 5.625rem;
+  margin: 0;
+  font-family: 'Indie Flower', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+  font-size: 2.5rem;
+  font-family: 'Alegreya', serif;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3{
+  font-family: 'Alegreya', serif;
+  color: #11999E;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 8px;
+  margin: 100px auto;
+  width: 5%;
+}
+p{
+  margin: 0;
+  font-family: 'Alegreya', serif;
+  line-height: 2;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+.contact-message{
+  margin: auto;
+  margin-bottom: 30px;
+  width: 25%;
+}
+.DP{
+  height: 200px;
+  width: 200px;
+  padding-top: 10px;
+  border-radius: 50%;
+}
+.fl{
+  color: #EAF6F6;
+}
+.footer-link{
+  color: #11999E;
+}
+.intro{
+  margin: auto;
+  width: 25%;
+}
+.profile{
+  padding-bottom: 30px;
+}
+.web{
+  float: left;
+  margin-right: 30px;
+  width:25%
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.SQL{
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+.Anime{
+  float: left;
+  margin-right: 30px;
+  width:25%
+}
+.top-cloud{
+  position: absolute;
+  margin: auto;
+  right: 300px;
+  top: 50px;
+}
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Alegreya', serif;
+  color: #ffffff;
+  font-size: 20px;
+  margin: 30px auto;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
